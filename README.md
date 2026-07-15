@@ -7,7 +7,7 @@ You can download the latest version of each tool from the **Releases** section o
 
 | Program | Latest Version | Description | Download |
 | :--- | :--- | :--- | :--- |
-| **MultiCapture** | v2026.06.23 | A portable tray tool that captures a region, full screen, active window, or monitor with a single PrintScreen — with save-to-folder, clipboard copy, thumbnail history, and image editing. <img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](../../releases/latest) |
+| **MultiCapture** | v2026.07.15 | A portable tray tool that captures a region, full screen, active window, or monitor with a single PrintScreen — with save-to-folder, clipboard copy, thumbnail history, and image editing. <img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](../../releases/latest) |
 
 ### 📄 License
 
@@ -30,7 +30,7 @@ If these tools are useful to you, please consider supporting their development:
 
 | 프로그램명 | 최신 버전 | 주요 기능 설명 | 다운로드 링크 |
 | :--- | :--- | :--- | :--- |
-| **MultiCapture (멀티캡처)** | v2026.06.23 | PrintScreen 한 번으로 영역·전체·활성창·모니터 화면을 캡처하고, 지정 폴더 저장·클립보드 복사·썸네일 히스토리·이미지 편집까지 지원하는 포터블 트레이 도구입니다. | [다운로드](../../releases/latest) |
+| **MultiCapture (멀티캡처)** | v2026.07.15 | PrintScreen 한 번으로 영역·전체·활성창·모니터 화면을 캡처하고, 지정 폴더 저장·클립보드 복사·썸네일 히스토리·이미지 편집까지 지원하는 포터블 트레이 도구입니다. | [다운로드](../../releases/latest) |
 
 ### 📄 라이선스
 
