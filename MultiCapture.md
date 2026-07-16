@@ -3,7 +3,7 @@
 > A portable screen capture & recording tool. No installation, lives in the tray, summoned with a single PrintScreen.
 > No registry or %APPDATA% usage — settings and captures are all stored next to the exe.
 
-<img width="820" height="560" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" />
+<img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" />
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Version | What's New | Download |
 | :--- | :--- | :--- |
-| **Ver.2026.07.14** | **Element-level window capture (UIA)** — when capturing a window, drill down to individual UI elements (buttons, panels, toolbars, and more) instead of grabbing the whole window. Hover to highlight the element under the cursor and refine the selection Firefox-style for pixel-precise capture.<br>**Redesigned editor toolbar** — reorder tool groups by dragging, switch to an icon-only compact view, and collapse the toolbar when you need more room. The history window now remembers its size between sessions. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiCapture/Ver.2026.07.14) |
+| **Ver.2026.07.14** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | **Element-level window capture (UIA)** — when capturing a window, drill down to individual UI elements (buttons, panels, toolbars, and more) instead of grabbing the whole window. Hover to highlight the element under the cursor and refine the selection Firefox-style for pixel-precise capture.<br>**Redesigned editor toolbar** — reorder tool groups by dragging, switch to an icon-only compact view, and collapse the toolbar when you need more room. The history window now remembers its size between sessions. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiCapture/Ver.2026.07.14) |
 | **Ver.2026.06.23** | Initial release — a portable tray tool that captures a region, full screen, active window, or monitor with a single PrintScreen. Includes save-to-folder, clipboard copy, thumbnail history, and image editing. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiCapture/Ver.2026.06.23) |
 
 ---
