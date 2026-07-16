@@ -5,7 +5,7 @@ You can download the latest version of each tool from the **Releases** section o
 ### 📦 Tool List
 | Program | Description | Download |
 | :--- | :--- | :--- |
-| **MultiCapture** | A portable tray tool that captures a region, full screen, active window, or monitor with a single PrintScreen — with save-to-folder, clipboard copy, thumbnail history, and image editing. <img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](../../releases/latest) |
+| **MultiCapture** | A portable tray tool that captures a region, full screen, active window, or monitor with a single PrintScreen — with save-to-folder, clipboard copy, thumbnail history, and image editing. <img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](../../main/MultiCapture.md) |
 
 ### 📄 License
 All tools in this repository are distributed as **Freeware**.
