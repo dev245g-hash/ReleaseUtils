@@ -1,8 +1,7 @@
 # MultiCapture
 
-> A portable screen capture & recording tool. No installation, lives in the tray, summoned with a single PrintScreen.
-> No registry or %APPDATA% usage — settings and captures are all stored next to the exe.
-
+> A portable capture & recording tool that lives in your tray — one PrintScreen to grab a region, window, or monitor, or roll a dashcam-style screen recording.
+> **Element-level window capture**, a **non-destructive editor**, and **timed dashcam recording (up to 60s)** — all fully portable, with settings and captures kept next to the exe.
 <img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" />
 
 ---
