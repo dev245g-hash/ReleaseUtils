@@ -5,7 +5,7 @@ You can download the latest version of each tool from the **Releases** section o
 ### 📦 Tool List
 | Program | Description | Download |
 | :--- | :--- | :--- |
-| **MultiCapture** | A portable, tray-based capture & screen-recording tool.<br>One PrintScreen grabs a region, window, monitor or rolls a timed dashcam recording (60s).<br>Element-level window capture · non-destructive editor · fully portable (no registry, no install). <br><img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](https://github.com/dev245g-hash/ReleaseUtils/blob/main/MultiCapture.md) |
+| **MultiCapture** | A portable, tray-based capture & screen-recording tool.<br>One PrintScreen grabs a region, window, monitor or full screen — or starts a region recording to MP4 (system sound + mic, pause, and move the region while it rolls).<br>Dashcam mode keeps the last 20–60s running in the background, so you can save what already happened.<br>Element-level window capture · non-destructive editor (curved arrows, screen color picker, style presets) · fully portable (no registry, no install).<br><img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/77b00428-7c77-4d1b-923c-c779a7b859fd" />| [Download](https://github.com/dev245g-hash/ReleaseUtils/blob/main/MultiCapture.md) |
 
 ### 📄 License
 All tools in this repository are distributed as **Freeware**.
