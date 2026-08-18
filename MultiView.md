@@ -2,9 +2,8 @@
 
 > A portable multi-view workspace that tiles web pages and local folders into one grid - arrange the board once, and it comes back exactly as you left it.
 > **Web page or folder per cell (auto-detected)**, a **drag-and-drop layout editor with row/column spans**, and **drag-adjustable split ratios** - all fully portable, with settings kept next to the exe.
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9a0e5702-4a32-4324-8d38-bf27a759b30a" /><img width="422" height="250" alt="image" src="https://github.com/user-attachments/assets/c2a66469-398c-44e7-9b24-8162dba00792" />
 
-
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9a0e5702-4a32-4324-8d38-bf27a759b30a" /> <img width="422" height="250" alt="image" src="https://github.com/user-attachments/assets/c2a66469-398c-44e7-9b24-8162dba00792" />
 
 ---
 
