@@ -38,7 +38,6 @@
 - **True portable single exe** - no installer, no registry; WebView2 DLLs are embedded in the exe and unpacked at run time
 - **Settings live next to the exe** (`setting.txt`) - grid size, split ratios, window position, and every view's address and zoom
 - First-run layout doubles as a tutorial, showing web views, folder views, and spans on one screen
-- Support gate - layout editing unlocks for 5 days from either supporting on Ko-fi or skipping; viewing, browsing, and resizing are never locked
 - English UI
 
 ---
