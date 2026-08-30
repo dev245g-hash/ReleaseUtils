@@ -2,7 +2,7 @@
 
 > A portable capture & recording tool that lives in your tray - one PrintScreen to grab a region, window, or monitor, or roll a dashcam-style screen recording.
 > **Element-level window capture**, a **non-destructive editor**, and **screen recording to MP4 or animated GIF** - all fully portable, with settings and captures kept next to the exe.
-<img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" />
+<img width="410" height="280" alt="MultiCapture-demo" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /> <img width="410" height="280" alt="image" src="https://github.com/user-attachments/assets/bffc44a8-26ca-4426-ba98-8cb90a128bed" /> <img width="410" height="280" alt="image" src="https://github.com/user-attachments/assets/2d3f96d3-1d92-46ad-b827-0846b4211be5" />
 
 ---
 
