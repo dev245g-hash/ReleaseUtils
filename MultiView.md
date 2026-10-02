@@ -10,7 +10,8 @@
 ## 📦 Version List
 | Version | What's New | Download |
 | :--- | :--- | :--- |
-| **Ver.2026.08.15** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column & row ratios, per-view zoom and address history, and a single-exe portable build. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiView/Ver.2026.08.15) |
+| **Ver.2026.10.03** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | Instant screen lock from the address bar's right-click menu, toolbar icons redrawn as crisp vectors with tooltips, a collapsible title bar, and a round of visual polish and fixes (menu overlap, icon alignment, cell spacing, URL copy encoding). | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiView/Ver.2026.10.03) |
+| **Ver.2026.08.15** | Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column & row ratios, per-view zoom and address history, and a single-exe portable build. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiView/Ver.2026.08.15) |
 
 ---
 
@@ -21,8 +22,9 @@
 - **Drag the gap between cells** to change column & row ratios - saved the moment you release
 - **Per-view zoom**, remembered separately for each cell
 - Per-view toolbar - back, forward, home, and parent folder; `Enter` to navigate, `F5` to refresh a folder view
-- Address-bar conveniences - right-click for a larger edit popup, or drop a file/folder onto it to jump there
-- **Frameless title bar** - drag to move, double-click to maximize, with layout settings one click away
+- Address-bar conveniences - right-click for a larger edit popup or an instant **Lock screen now**, or drop a file/folder onto it to jump there
+- **Frameless title bar** - drag to move, double-click to maximize, collapse to just the title bar with the shade button, with layout settings one click away
+- Vector toolbar icons with hover tooltips throughout
 
 ## 🧩 Layout Editor
 
