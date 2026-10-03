@@ -1,0 +1,18 @@
+{
+  "MultiCapture": {
+    "sourceRoot": "D:\\Claude\\MultiCapture",
+    "csproj": "MultiCapture.csproj",
+    "exe": "MultiCapture.exe",
+    "process": "MultiCapture",
+    "versionFile": "HistoryForm.Designer.cs",
+    "versionPattern": "MultiCapture \\(Ver\\.([0-9.]+)\\)"
+  },
+  "MultiView": {
+    "sourceRoot": "D:\\Claude\\MultiView",
+    "csproj": "MultiView.csproj",
+    "exe": "MultiView.exe",
+    "process": "MultiView",
+    "versionFile": "Form1.Designer.cs",
+    "versionPattern": "MultiView ([0-9]{4}\\.[0-9]{2}\\.[0-9]{2})"
+  }
+}
