@@ -1,5 +1,7 @@
 # MultiCapture
 
+![MultiCapture Toolbar tutorial](https://raw.githubusercontent.com/dev245g-hash/ReleaseUtils/main/images/multicapture/capture_toolbar_tutorial.png)
+
 > A portable capture & recording tool that lives in your tray - one PrintScreen to grab a region, window, or monitor, or roll a dashcam-style screen recording.
 > **Element-level window capture**, a **non-destructive editor**, and **screen recording to MP4 or animated GIF** - all fully portable, with settings and captures kept next to the exe.
 
@@ -8,8 +10,6 @@
 ---
 
 ## 📸 Screen Capture
-
-![MultiCapture Toolbar tutorial](https://raw.githubusercontent.com/dev245g-hash/ReleaseUtils/main/images/multicapture/capture_toolbar_tutorial.png)
 
 - **4 capture modes** - region drag, full screen, active window, per-monitor selection
 - **Global PrintScreen hotkey** - intercepted via a low-level keyboard hook (`Ctrl+PrintScreen` also supported)
