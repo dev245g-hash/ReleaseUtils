@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MultiView</title>
+<meta name="description" content="A portable multi-view workspace that tiles web pages and local folders into one grid.">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header class="site-header"><div class="wrap">
+  <a class="brand" href="./">dev245 Tools</a>
+  <nav class="nav">
+    <a href="multicapture.html">MultiCapture</a>
+    <a href="multiview.html" aria-current="page">MultiView</a>
+    <a href="https://ko-fi.com/dev245">Support</a>
+    <button class="theme-btn" type="button" aria-label="Toggle theme"></button>
+  </nav>
+</div></header>
+
+<main class="wrap">
+  <div class="hero">
+    <h1>MultiView</h1>
+    <p>A portable multi-view workspace that tiles web pages and local folders into one grid &mdash; arrange the board once, and it comes back exactly as you left it.</p>
+    <p><strong>Web page or folder per cell (auto-detected)</strong>, a <strong>drag-and-drop layout editor with row/column spans</strong>, and <strong>drag-adjustable split ratios</strong> &mdash; all fully portable, with settings kept next to the exe.</p>
+    <div class="actions">
+      <a class="btn" data-download="MultiView" href="https://github.com/dev245g-hash/dev245g-hash.github.io/releases">Download <small></small></a>
+      <a class="btn ghost" href="#versions">Version list</a>
+    </div>
+  </div>
+
+  <section>
+    <div class="cards">
+      <div class="shot"><img src="https://github.com/user-attachments/assets/9a0e5702-4a32-4324-8d38-bf27a759b30a" alt="MultiView grid" width="400" height="250"></div>
+      <div class="shot"><img src="https://github.com/user-attachments/assets/c2a66469-398c-44e7-9b24-8162dba00792" alt="MultiView layout editor" width="422" height="250"></div>
+    </div>
+  </section>
+
+  <section class="group">
+    <h2>🪟 Multi-View Grid</h2>
+    <ul>
+      <li><strong>Web page or local folder in every cell</strong> - type an address and the cell switches itself: <code>https://…</code> opens a Chromium (WebView2) web view, <code>C:\…</code> opens a folder view</li>
+      <li><strong>Grid up to 9 × 9</strong>, with any view spanning multiple columns or rows</li>
+      <li><strong>Drag the gap between cells</strong> to change column &amp; row ratios - saved the moment you release</li>
+      <li><strong>Per-view zoom</strong>, remembered separately for each cell</li>
+      <li>Per-view toolbar - back, forward, home, and parent folder; <code>Enter</code> to navigate, <code>F5</code> to refresh a folder view</li>
+      <li>Address-bar conveniences - right-click for a larger edit popup or an instant <strong>Lock screen now</strong>, or drop a file/folder onto it to jump there</li>
+      <li><strong>Frameless title bar</strong> - drag to move, double-click to maximize, collapse to just the title bar with the shade button, with layout settings one click away</li>
+      <li>Vector toolbar icons with hover tooltips throughout</li>
+    </ul>
+  </section>
+
+  <section class="group">
+    <h2>🧩 Layout Editor</h2>
+    <ul>
+      <li><strong>Visual canvas</strong> - click an empty cell to add a view, drag a card to move it, drag its corner to resize</li>
+      <li><strong>Drag one card onto another to swap them</strong>, spans and all</li>
+      <li><strong>Add or remove rows &amp; columns</strong> from the grid edges, with a warning before views are deleted</li>
+      <li><strong>Keyboard-first editing</strong> - arrow keys move a view, <code>Shift</code>+arrows resize, <code>F2</code> or double-click edits the address, <code>Delete</code> removes</li>
+      <li><strong>Explicit save</strong> - <em>Save and Close</em> commits; closing with X asks before discarding changes</li>
+      <li>Live hint bar and status bar, so no shortcut has to be memorized</li>
+    </ul>
+  </section>
+
+  <section class="group">
+    <h2>🌐 Other</h2>
+    <ul>
+      <li><strong>True portable single exe</strong> - no installer, no registry; WebView2 DLLs are embedded in the exe and unpacked at run time</li>
+      <li><strong>Settings live next to the exe</strong> (<code>setting.txt</code>) - grid size, split ratios, window position, and every view's address and zoom</li>
+      <li>First-run layout doubles as a tutorial, showing web views, folder views, and spans on one screen</li>
+      <li>English UI</li>
+    </ul>
+  </section>
+
+  <section id="versions">
+    <h2>📦 Version List</h2>
+    <div class="table-wrap">
+    <table class="versions">
+      <thead><tr><th>Version</th><th>What's New</th><th>Download</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Ver.2026.10.03</strong><span class="badge">Latest</span></td><td>Instant screen lock from the address bar's right-click menu, toolbar icons redrawn as crisp vectors with tooltips, a collapsible title bar, and a round of visual polish and fixes (menu overlap, icon alignment, cell spacing, URL copy encoding).</td><td><a href="https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.10.03">Download</a></td></tr>
+        <tr><td><strong>Ver.2026.08.15</strong></td><td>Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column &amp; row ratios, per-view zoom and address history, and a single-exe portable build.</td><td><a href="https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.08.15">Download</a></td></tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+
+  <p class="env"><strong>Environment:</strong> Windows · .NET Framework 4.8 · WebView2 Runtime (preinstalled on Windows 11 and recent Windows 10)</p>
+</main>
+
+<footer class="site-footer"><div class="wrap">
+  <p>Freeware &mdash; free to use, may not be sold, modified, or redistributed without permission.</p>
+  <p>Support development: <a href="https://ko-fi.com/dev245">ko-fi.com/dev245</a></p>
+</div></footer>
+<script src="assets/site.js"></script>
+</body>
+</html>

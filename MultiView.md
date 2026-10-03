@@ -1,47 +1,6 @@
 # MultiView
 
-> A portable multi-view workspace that tiles web pages and local folders into one grid - arrange the board once, and it comes back exactly as you left it.
-> **Web page or folder per cell (auto-detected)**, a **drag-and-drop layout editor with row/column spans**, and **drag-adjustable split ratios** - all fully portable, with settings kept next to the exe.
+A portable multi-view workspace that tiles web pages and local folders into one grid.
 
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9a0e5702-4a32-4324-8d38-bf27a759b30a" /> <img width="422" height="250" alt="image" src="https://github.com/user-attachments/assets/c2a66469-398c-44e7-9b24-8162dba00792" />
-
----
-
-## 📦 Version List
-| Version | What's New | Download |
-| :--- | :--- | :--- |
-| **Ver.2026.10.03** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | Instant screen lock from the address bar's right-click menu, toolbar icons redrawn as crisp vectors with tooltips, a collapsible title bar, and a round of visual polish and fixes (menu overlap, icon alignment, cell spacing, URL copy encoding). | [Download](https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.10.03) |
-| **Ver.2026.08.15** | Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column & row ratios, per-view zoom and address history, and a single-exe portable build. | [Download](https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.08.15) |
-
----
-
-## 🪟 Multi-View Grid
-
-- **Web page or local folder in every cell** - type an address and the cell switches itself: `https://…` opens a Chromium (WebView2) web view, `C:\…` opens a folder view
-- **Grid up to 9 × 9**, with any view spanning multiple columns or rows
-- **Drag the gap between cells** to change column & row ratios - saved the moment you release
-- **Per-view zoom**, remembered separately for each cell
-- Per-view toolbar - back, forward, home, and parent folder; `Enter` to navigate, `F5` to refresh a folder view
-- Address-bar conveniences - right-click for a larger edit popup or an instant **Lock screen now**, or drop a file/folder onto it to jump there
-- **Frameless title bar** - drag to move, double-click to maximize, collapse to just the title bar with the shade button, with layout settings one click away
-- Vector toolbar icons with hover tooltips throughout
-
-## 🧩 Layout Editor
-
-- **Visual canvas** - click an empty cell to add a view, drag a card to move it, drag its corner to resize
-- **Drag one card onto another to swap them**, spans and all
-- **Add or remove rows & columns** from the grid edges, with a warning before views are deleted
-- **Keyboard-first editing** - arrow keys move a view, `Shift`+arrows resize, `F2` or double-click edits the address, `Delete` removes
-- **Explicit save** - *Save and Close* commits; closing with X asks before discarding changes
-- Live hint bar and status bar, so no shortcut has to be memorized
-
-## 🌐 Other
-
-- **True portable single exe** - no installer, no registry; WebView2 DLLs are embedded in the exe and unpacked at run time
-- **Settings live next to the exe** (`setting.txt`) - grid size, split ratios, window position, and every view's address and zoom
-- First-run layout doubles as a tutorial, showing web views, folder views, and spans on one screen
-- English UI
-
----
-
-**Environment:** Windows · .NET Framework 4.8 · WebView2 Runtime (preinstalled on Windows 11 and recent Windows 10)
+- 📄 Details, features, version list: **https://dev245g-hash.github.io/multiview.html**
+- ⬇️ Download: [Releases](https://github.com/dev245g-hash/dev245g-hash.github.io/releases)
