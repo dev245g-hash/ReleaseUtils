@@ -10,8 +10,8 @@
 ## 📦 Version List
 | Version | What's New | Download |
 | :--- | :--- | :--- |
-| **Ver.2026.10.03** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | Instant screen lock from the address bar's right-click menu, toolbar icons redrawn as crisp vectors with tooltips, a collapsible title bar, and a round of visual polish and fixes (menu overlap, icon alignment, cell spacing, URL copy encoding). | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiView/Ver.2026.10.03) |
-| **Ver.2026.08.15** | Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column & row ratios, per-view zoom and address history, and a single-exe portable build. | [Download](https://github.com/dev245g-hash/ReleaseUtils/releases#release-MultiView/Ver.2026.08.15) |
+| **Ver.2026.10.03** ![Latest](https://img.shields.io/badge/-Latest-brightgreen) | Instant screen lock from the address bar's right-click menu, toolbar icons redrawn as crisp vectors with tooltips, a collapsible title bar, and a round of visual polish and fixes (menu overlap, icon alignment, cell spacing, URL copy encoding). | [Download](https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.10.03) |
+| **Ver.2026.08.15** | Initial release - a portable grid workspace that tiles Chromium web views and local folder views up to 9 × 9. Includes a visual layout editor with span/swap/resize, drag-adjustable column & row ratios, per-view zoom and address history, and a single-exe portable build. | [Download](https://github.com/dev245g-hash/dev245g-hash.github.io/releases#release-MultiView/Ver.2026.08.15) |
 
 ---
 

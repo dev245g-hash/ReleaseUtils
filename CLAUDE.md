@@ -1,7 +1,7 @@
 # ReleaseUtils (프리웨어 배포 저장소 · 사이트)
 
 ## 프로젝트
-`dev245g-hash/ReleaseUtils` — 개인 개발 유틸(MultiCapture, MultiView, 추후 ~5개)의 **릴리즈 + 소개 페이지** 저장소.
+`dev245g-hash/dev245g-hash.github.io` — 개인 개발 유틸(MultiCapture, MultiView, 추후 ~5개)의 **릴리즈 + 소개 페이지** 저장소.
 소스 코드는 각 툴 저장소에 있고, 여기에는 **배포물(Releases) · 소개 문서 · 이미지 · 공통 배포 스크립트**만 둔다.
 로컬 위치: `D:\Claude\ReleaseUtils` (git clone). 편집은 로컬에서 하고 git으로 푸시한다.
 
@@ -33,10 +33,11 @@ tools\Publish-Release.ps1 -Tool MultiView -Version 2026.01.01
 - 창 제목 버전(`*.Designer.cs`)이 `-Version`과 다르면 중단한다. 디자이너 영역이라 Claude가 고치지 않고 사용자에게 요청한다.
 
 ## 설계 메모 / 미결
-- 현재 공통 스크립트는 만들어졌으나 **각 툴 저장소의 기존 `tools\Publish-Release.ps1`은 아직 그대로** 있다. 새 스크립트 실사용 검증 후 툴 쪽 CLAUDE.md의 배포 Flow를 이 경로로 교체하고 기존 스크립트를 제거한다.
+- 각 툴 저장소의 배포 Flow는 이 공통 스크립트를 쓰도록 교체됨(툴 쪽 `tools\Publish-Release.ps1`은 제거). 첫 실배포 때 draft 생성까지 정상인지 확인할 것.
 - 이미지 자동화: 이미지를 `images/<tool>/<날짜>/`에 커밋하고 raw URL을 본문에 넣으면 draft 단계에서 이미지까지 자동화 가능 → 사람은 Publish만 누르면 된다. 미구현.
 - 버전 리스트 갱신 대상: 지금은 `<Tool>.md`. GitHub Pages 전환 시 Pages 쪽으로 이동.
-- GitHub Pages 전환 / 저장소 이름 `dev245g-hash.github.io` 변경은 **미결정**. 변경하면 하드코딩 링크(각 `<Tool>.md`의 Download·이미지 주소, 스크립트의 `$Repo`, 툴별 CLAUDE.md)를 직접 갱신하고 릴리즈·raw 리다이렉트를 열어 확인해야 한다. 사용자 승인 전에는 실행하지 않는다.
+- 저장소 이름은 `dev245g-hash.github.io`로 변경 완료(사이트 루트 https://dev245g-hash.github.io/ , Pages: main `/`, legacy Jekyll). 옛 `ReleaseUtils` 주소는 GitHub 리다이렉트로 살아 있으므로 외부 게시글(promotion 문서 등)의 옛 링크는 그대로 둬도 동작한다. 단 같은 이름으로 새 저장소를 만들면 리다이렉트가 끊긴다.
+- Pages 디자인(전체 너비·카드 등)은 아직 기본 Jekyll 렌더. 직접 만든 `index.html` + `.nojekyll`로 바꾸는 것은 미착수.
 
 ## 버전 관리
 - "깃" 지시가 있을 때만 commit/push (전역 규칙). 브랜치 `main`.

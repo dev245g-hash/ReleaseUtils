@@ -1,6 +1,6 @@
 ﻿<#
 .SYNOPSIS
-    프리웨어 툴 릴리즈를 dev245g-hash/ReleaseUtils 에 올린다(기본은 draft). 툴 공통 스크립트.
+    프리웨어 툴 릴리즈를 dev245g-hash/dev245g-hash.github.io 에 올린다(기본은 draft). 툴 공통 스크립트.
 
 .DESCRIPTION
     툴별 차이(소스 경로·csproj·exe·버전 문자열 위치)는 tools.json 에 둔다.
@@ -55,7 +55,7 @@ $cfg = $all.$Tool
 if (-not $cfg) { Fail "tools.json 에 없는 툴이다: $Tool (등록된 툴: $(($all.PSObject.Properties.Name) -join ', '))" }
 
 $Owner     = "dev245g-hash"
-$Repo      = "ReleaseUtils"
+$Repo      = "dev245g-hash.github.io"
 $Tag       = "$Tool/Ver.$Version"
 $AssetName = "$Tool.zip"
 $Api       = "https://api.github.com/repos/$Owner/$Repo"
