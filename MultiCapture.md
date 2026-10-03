@@ -5,33 +5,33 @@
 > A portable capture & recording tool that lives in your tray - one PrintScreen to grab a region, window, or monitor, or roll a dashcam-style screen recording.
 > **Element-level window capture**, a **non-destructive editor**, and **screen recording to MP4 or animated GIF** - all fully portable, with settings and captures kept next to the exe.
 
-<table width="100%">
+<table>
 <tr>
-<td width="40%" valign="middle">
+<td width="380" valign="middle">
 <h3>Scroll Capture</h3>
 Stitches a tall page or document into one long PNG automatically.
 </td>
-<td width="60%" align="center"><img width="330" height="180" alt="Scroll Capture" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
+<td width="380" align="center"><img width="330" height="180" alt="Scroll Capture" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
 </tr>
 </table>
 
-<table width="100%">
+<table>
 <tr>
-<td width="40%" valign="middle">
+<td width="380" valign="middle">
 <h3>Pin to Screen</h3>
 Turn any capture into an always-on-top floating window with adjustable size and opacity.
 </td>
-<td width="60%" align="center"><img width="330" height="180" alt="Pin to Screen" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
+<td width="380" align="center"><img width="330" height="180" alt="Pin to Screen" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
 </tr>
 </table>
 
-<table width="100%">
+<table>
 <tr>
-<td width="40%" valign="middle">
+<td width="380" valign="middle">
 <h3>AniGif</h3>
 Record any part of your screen as an animated GIF, then trim it before saving.
 </td>
-<td width="60%" align="center"><img width="330" height="180" alt="AniGif" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
+<td width="380" align="center"><img width="330" height="180" alt="AniGif" src="https://github.com/user-attachments/assets/af96a79b-8a1f-4442-b8be-1034de1be7a6" /></td>
 </tr>
 </table>
 
