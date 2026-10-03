@@ -22,6 +22,8 @@
 
 ## 📸 Screen Capture
 
+![MultiCapture Toolbar tutorial](https://raw.githubusercontent.com/dev245g-hash/ReleaseUtils/main/images/multicapture/capture_toolbar_tutorial.png)
+
 - **4 capture modes** - region drag, full screen, active window, per-monitor selection
 - **Global PrintScreen hotkey** - intercepted via a low-level keyboard hook (`Ctrl+PrintScreen` also supported)
 - **Capture overlay** - screen freeze effect, instant window/monitor pick on hover, icon-only mode-switch toolbar with hover tooltips
